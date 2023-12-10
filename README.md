@@ -1,5 +1,6 @@
 <!--headings-->
 # treinamento-github-dio
+
 ## desafio de projeto sobre git hub
 
 Aqui está um resumo de como utilizar o Git com o GitHub, incluindo alguns comandos principais:
@@ -65,3 +66,8 @@ git merge <nome do branch>```
 Isso mescla as alterações de um branch para o branch atual.
 
 Esses são apenas alguns dos comandos básicos. O GitHub adiciona funcionalidades colaborativas ao Git, como Pull Requests e Issues, que são usados para revisão de código, discussões e acompanhamento de problemas. Certifique-se de ajustar os comandos conforme necessário com base na sua situação específica.
+=======
+Repositório criado para o desafio de projeto.
+## desafio de projeto sobre git/hub
+## [sintaxe básica Markdown](https://www.markdownguide.org/getting-started/)
+
