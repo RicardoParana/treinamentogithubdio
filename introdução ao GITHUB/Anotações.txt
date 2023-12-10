@@ -1,7 +1,3 @@
-<!--headings-->
-# treinamento-github-dio
-## desafio de projeto sobre git hub
-
 Aqui está um resumo de como utilizar o Git com o GitHub, incluindo alguns comandos principais:
 
 ## Clonar um Repositório:
